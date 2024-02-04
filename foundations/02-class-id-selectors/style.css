@@ -6,7 +6,8 @@
     color: blue;
     font-size: 36px;
 }
-.odd#third {
+.odd.f-size-24
+ {
     font-size: 24px;
 }
 #fourth {
