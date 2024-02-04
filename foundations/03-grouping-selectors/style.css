@@ -1,11 +1,11 @@
-#one {
+.one {
     background-color: black;
     color: white;
 }
-#two {
+.two {
     background-color: yellow;
 }
-#one, #two {
+.one, .two {
     font-family: "Helvetica", "Times New Roman", sans-serif;
     font-size: 28px;
 }
