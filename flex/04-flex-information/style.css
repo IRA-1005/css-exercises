@@ -10,8 +10,19 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
+.miniblock {
+  width: 200px;
+  text-align: center;
+  gap: 52px;
+ }
 
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
